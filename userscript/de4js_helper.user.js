@@ -2,7 +2,7 @@
 ---
 // ==UserScript==
 // @name         DECODEJS helper
-// @namespace    https://decodejs.laptrinhbanthan.com/de4js/
+// @namespace    https://decodejs.laptrinhbanthan.com/de4js
 // @description  Enable Unreadable option in de4js
 // @version      {{ site.version }}
 // @icon         https://i.imgur.com/CJ5MfxV.png
