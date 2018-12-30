@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/laptrinhbanthan/de4js/issues"
   },
-  "homepage": "https://laptrinhbanthan.github.io/de4js/",
+  "homepage": "https://decodejs.laptrinhbanthan.com/de4js/",
   "devDependencies": {
     "eslint": "^5.1.0",
     "eslint-plugin-frontmatter": "0.0.6"
